@@ -1,0 +1,122 @@
+[
+    {
+        "title": "JavaScript Promises In 10 Minutes",
+        "videoId": "DHvZLI7Db8E",
+        "image": "https://i.ytimg.com/vi/DHvZLI7Db8E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkpF_K7JyCSr3_nAl0nKN_acLf-Q",
+        "category": "javascript"
+    },
+    {
+        "title": "Are You Smarter Than Me? LinkedIn JavaScript Quiz Interview Questions",
+        "videoId": "V__irponAuA",
+        "image": "https://i.ytimg.com/vi/V__irponAuA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAROpzarAUr_kAQjoQHb3ZcLAZTHg",
+        "category":"javascript"
+    },
+    {
+        "title": "Learn CSS Position In 9 Minutes",
+        "videoId": "jx5jmI0UlXU",
+        "image": "https://i.ytimg.com/vi/jx5jmI0UlXU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZyLL21Mpw8zcPH1o3Vx3gdjCz4Q",
+        "category": "general"
+    },
+    {
+        "title": "Learn useEffect In 13 Minutes",
+        "videoId": "0ZJgIjIuY7U",
+        "image": "https://i.ytimg.com/vi/0ZJgIjIuY7U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZc-xR3RaEydsR2uAkRxo4eH6t9g",
+        "category": "react"
+    },
+    {
+        "title": "Learn GraphQL In 40 Minutes",
+        "videoId": "ZQL7tL2S0oQ",
+        "image": "https://i.ytimg.com/vi/ZQL7tL2S0oQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOVyet-kwnEwxoXCrGKFX13feFUA",
+        "category": "general"
+    },
+    {
+        "title": "Learn JavaScript Event Listeners In 18 Minutes",
+        "videoId": "XF1_MlZ5l6M",
+        "image": "https://i.ytimg.com/vi/XF1_MlZ5l6M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxWv_Ntq3HCYjcRYlTvwookpE6mw",
+        "category": "javascript"
+    },
+    {
+        "title": "Build Node.js User Authentication - Password Login",
+        "videoId": "Ud5xKCYQTjM",
+        "image": "https://i.ytimg.com/vi/Ud5xKCYQTjM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiGw2vUZthvY3Qqf25yDW9y6X89Q",
+        "category": "general"
+    },
+    {
+        "title": "React Authentication Crash Course With Firebase And Routing",
+        "videoId": "PKwu15ldZ7k",
+        "image": "https://i.ytimg.com/vi/PKwu15ldZ7k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpEbraodPncbM-YDMkHuMShoU2xQ",
+        "category": "react"
+    },
+    {
+        "title": "Learn DOM Manipulation In 18 Minutes",
+        "videoId": "y17RuWkWdn8",
+        "image": "https://i.ytimg.com/vi/y17RuWkWdn8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA848rfH94WnTTAaJUCA2ZJw-PF7g",
+        "category": "general"
+    },
+    {
+        "title": "Your First Node.js Web Server",
+        "videoId": "VShtPwEkDD0",
+        "image": "https://i.ytimg.com/vi/VShtPwEkDD0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8FbM1dgrzzA9etXgXnC9h7-tN4Q",
+        "category": "general"
+    },
+    {
+        "title": "This Was Surprisingly Hard - LinkedIn React Quiz",
+        "videoId": "0va5IF2xu0s",
+        "image": "https://i.ytimg.com/vi/0va5IF2xu0s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVhB3CPC4GGjF1_6vGhwaynCylXw",
+        "category": "react"
+    },
+    {
+        "title": "5 Projects You Can Build In A Week That Will Get You Hired",
+        "videoId": "oluY633rkgI",
+        "image": "https://i.ytimg.com/vi/oluY633rkgI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAnP3KVOrRTUlaxIY2Gxo5DfNrBPA",
+        "category": "general"
+    },
+    {
+        "title": "Learn Regular Expressions In 20 Minutes",
+        "videoId": "rhzKDrUiJVk",
+        "image": "https://i.ytimg.com/vi/rhzKDrUiJVk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRCQ14ixNE4sWxpnyNox2ahJCecw",
+        "category": "general"
+    },
+    {
+        "title": "Learn useState In 15 Minutes - React Hooks Explained",
+        "videoId": "O6P86uwfdR0",
+        "image": "https://i.ytimg.com/vi/O6P86uwfdR0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfInIamVDJ1_mZ47udTCFiSQHFRQ",
+        "category": "react"
+    },
+    {
+        "title": "8 Must Know JavaScript Array Methods",
+        "videoId": "R8rmfD9Y5-c",
+        "image": "https://i.ytimg.com/vi/R8rmfD9Y5-c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGNUZSe4xEgCxoT4Np09_Ly80Exg",
+        "category": "javascript"
+    },
+    {
+        "title": "How To Create And Deploy A VSCode Extension",
+        "videoId": "q5V4T3o3CXE",
+        "image": "https://i.ytimg.com/vi/q5V4T3o3CXE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXDyNFCUTHrZKIr13CwFtoQlb2iw",
+        "category": "general"
+    },
+    {
+        "title": "How to Open Source Like a Pro",
+        "videoId": "MT6M_sqAuZo",
+        "image": "https://i.ytimg.com/vi/MT6M_sqAuZo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASFTw_Yp8EmS-TO6OAC_8IcFwUvA",
+        "category": "general"
+    },
+    {
+        "title": "Learn React In 30 Minutes",
+        "videoId": "hQAHSlTtcmY",
+        "image": "https://i.ytimg.com/vi/hQAHSlTtcmY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4NogWYr6obbM13IK8ghsDPuwqsA",
+        "category": "react"
+    },
+    {
+        "title": "Introduction to Web Development | Full Stack Web Development Tutorial",
+        "videoId": "EceJQ05KTf4",
+        "image": "https://i.ytimg.com/vi/EceJQ05KTf4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2A9r_74vMaEganceBHEQm-osdAQ",
+        "category": "general"
+    },
+    {
+        "title": "JavaScript ES6 Arrow Functions Tutorial",
+        "videoId": "h33Srr5J9nY",
+        "image": "https://i.ytimg.com/vi/h33Srr5J9nY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDeFZBznGX5wJo9j5ok5xySEAe3xA",
+        "category": "javascript"
+    }
+]
